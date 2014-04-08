@@ -9,6 +9,7 @@
 
 #include <string>
 #include <iostream>
+#include <assert.h>
 #include <stdio.h>
 #include <tchar.h>
 #include "SFML\Graphics.hpp"

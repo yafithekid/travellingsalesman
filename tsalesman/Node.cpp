@@ -70,7 +70,7 @@ void Node::initProperties(){
 	this->shape.setFillColor(SF_WHITE);
 	this->shape.setOutlineThickness(1);
 	this->shape.setOutlineColor(sf::Color::Black);
-	this->shape.setRadius(20);
+	this->shape.setRadius(14);
 
 	this->text.setColor(SF_BLACK);
 	this->text.setFont(fontTNR);
